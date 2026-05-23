@@ -1,0 +1,14 @@
+{
+  "name": "lab-web",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "start": "vite"
+  },
+  "dependencies": {
+    "pixi.js": "^8.18.1"
+  },
+  "devDependencies": {
+    "vite": "^8.0.14"
+  }
+}
